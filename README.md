@@ -38,7 +38,7 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 
 ## How ?
 
-* Collaborative document 📖🖊 on [hackmd](https://hackmd.io/@arthurlutz/awesome-software-running-on-old-hardware/edit?both)
+* Collaborative document 📖🖊 on [hackmd](https://hackmd.io/5G4JLCw4Sm-jqac1f-Wo5A?both)
 * https://framagit.org/arthurlutzim/awesome-software-running-on-old-hardware
 * https://github.com/arthurlutz/awesome-software-running-on-old-hardware (mirror)
 
@@ -65,7 +65,7 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 * [Debian on QNAP TS-209](http://www.cyrius.com/debian/orion/qnap/ts-209/)
 * [Debian on QNAP TS-409](http://www.cyrius.com/debian/orion/qnap/ts-409/)
 * [Debian on D-Link DNS-323](https://wiki.debian.org/InstallingDebianOn/D-Link/DNS-323)
-* [Debian on DLink DNS-325](http://jamie.lentin.co.uk/devices/dlink-dns325/)
+* [Debian on DLink DNS-325](https://jamie.lentin.co.uk/devices/dlink-dns325/)
 
 ## 🤳📱 Phones / Tablets
 
@@ -84,13 +84,13 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 ## 🎧 Audio devices
 
 * [iPod with iPodLinux](https://en.wikipedia.org/wiki/IPodLinux)
-* [RockBox](https://www.rockbox.org/), [devices](https://www.rockbox.org/wiki/Target)
+* [RockBox](https://www.rockbox.org/), [devices](https://www.rockbox.org/wiki/TargetStatus)
 
 
 ## 🎮 Game consoles
 
 * [libretro/retroarch](https://www.libretro.com/) and [devices running emulators](https://retroarch.com/?page=platforms) extending game play for existing hardware
-* [WiiBrew](https://wiibrew.org) on the Nintendo Wii
+* [WiiBrew](https://www.wiibrew.org/wiki/) on the Nintendo Wii
 * [HomeBrew culture](https://en.wikipedia.org/wiki/Homebrew_(video_games)) on various game consoles
 
 ## 📺 TVs
@@ -121,7 +121,7 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 
 ## 🏚 Internet of "Things"
 
-* [exploitee.rs](https://www.exploitee.rs/)
+* exploitee.rs
     * [Nest](https://www.exploitee.rs/index.php/Nest)
 * Xiaomi
     * Mi : [python-miio](https://github.com/rytilahti/python-miio) to interface with devices using Xiaomi's miIO protocol.
@@ -202,5 +202,5 @@ and related or neighboring rights to this work. See [LICENSE](LICENSE).
 [awesome-link]: https://github.com/sindresorhus/awesome
 [CC0-badge]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
 [CC0-link]: https://creativecommons.org/publicdomain/zero/1.0/
-[cookiecutter]: https://github.com/audreyr/cookiecutter
+[cookiecutter]: https://github.com/cookiecutter/cookiecutter
 [cookiecutter-awesome]: https://github.com/moodule/cookiecutter-git
