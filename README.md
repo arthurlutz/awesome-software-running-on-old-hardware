@@ -6,12 +6,21 @@ Here is a list of projects that attempt to compile or install “recent” softw
 
 ## Table of Contents
 
-- [Section Title](#section-title)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contribute](#contribute)
-- [Credits](#credits)
-- [License](#license)
-
+- [💻 Computers](#-computers)
+- [💾 NAS](#-nas)
+- [🤳📱 Phones / Tablets](#-phones-tablets)
+- [⬆️⬇️ Routers](#-routers)
+- [🎧 Audio devices](#-audio-devices)
+- [🎮 Game consoles](#-game-consoles)
+- [📺 TVs](#-tvs)
+- [🛰 GPS](#-gps)
+- [📖 e-reader](#-e-reader)
+- [📷 Cameras](#-cameras)
+- [⌚️ Watches](#-watches)
+- [🏚 Internet of "Things"](#-internet-of-things)
+- [🔧 Software projects that maintain a version for old hardware](#-software-projects-that-maintain-a-version-for-old-hardware)
+- [✨🎉 Proprietary hardware where the code source has been published](#-proprietary-hardware-where-the-code-source-has-been-published)
+- [🗄🗃 Hardware databases](#-hardware-databases)
 
 ## Why ?
 
