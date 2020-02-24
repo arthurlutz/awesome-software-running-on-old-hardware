@@ -1,0 +1,12 @@
+image: ruby
+
+# Cache gems in between builds
+cache:
+  paths:
+    - vendor/ruby
+
+before_script:
+  - gem install awesome_bot
+
+script:
+  - awesome_bot README.md
