@@ -5,7 +5,7 @@ Contributions are welcome, and they are greatly appreciated!
 Every little bit helps, and credit will always be given.
 So feel free to create a [new merge/pull request][merge-link]!.
 
-You can also send a suggestion using the issues, create a [new issue on framagit/gitlab][framagit-issue-link]! (or alternativelly a [new issue on github][issue-link]!.
+You can also send a suggestion using the issues, create a [new issue on framagit/gitlab][framagit-issue-link]! (or alternativelly a [new issue on github][issue-link]).
 
 And make sure to follow the [guidelines](#merge-pull-request-guidelines).
 
