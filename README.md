@@ -112,6 +112,8 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 ## 📷 Cameras
 
 * [MagicLantern](https://www.magiclantern.fm/) for Canon cameras (5D Mark II, 5D Mark III, 6D, 7D, 50D, 60D, 500D/T1i, 550D/T2i, 600D/T3i, 650D/T4i, 700D/T5i, 1100D/T3, EOS M.) and 26 other devices started3
+* [CHDK - Canon Hack Development Kit](https://chdk.fandom.com/wiki/CHDK) 
+* [400plus](https://github.com/400plus/400plus) (A firmware hack for the Canon 400D / XTi digital camera)
 * [Samsung NX300 : Firmware mods](https://op-co.de/blog/posts/modding_the_nx300/)
 * [Leika](https://alexhude.github.io/2019/01/24/hacking-leica-m240.html)
 
