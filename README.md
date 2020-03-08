@@ -74,6 +74,7 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 * Lineage [project](https://lineageos.org/), [devices](https://download.lineageos.org/)
 * Postmarketos [project](https://postmarketos.org/), [devices](https://wiki.postmarketos.org/wiki/Devices)
 * /e/ [project](https://e.foundation), [devices](https://doc.e.foundation/devices/)
+* [Android on Apple's iPhone - project sandcastle](https://projectsandcastle.org/)
 
 ## ⬆️⬇️ Routers
 
