@@ -1,7 +1,15 @@
-language: ruby
-rvm:
-  - 2.2
-before_script:
-  - gem install awesome_bot
-script:
-  - awesome_bot --allow-redirect README.md
+
+jobs:
+  include:
+    - name: awesome_bot
+      language: ruby
+      rvm:
+        - 2.2
+      before_script:
+        - gem install awesome_bot
+      script:
+        - awesome_bot --allow-redirect README.md
+    - name: awesome-lint
+      language: node_js
+      node_js:
+        - 'node'
