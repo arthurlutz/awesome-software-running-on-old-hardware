@@ -10,4 +10,4 @@ before_script:
 
 awesome_bot:
   script:
-    - awesome_bot --allow-redirect README.md
+    - awesome_bot --allow-redirect --white-list kb.netgear.com,support.dynabook.com README.md
