@@ -10,7 +10,7 @@ Here is a list of projects that attempt to compile or install “recent” softw
 - [How](#how)
 - [💻 Computers](#-computers)
 - [💾 NAS](#-nas)
-- [🤳📱 Phones / Tablets](#-phones-tablets)
+- [🤳📱 Phones / Tablets](#-phones--tablets)
 - [⬆️⬇️ Routers](#-routers)
 - [🎧 Audio devices](#-audio-devices)
 - [🎮 Game consoles](#-game-consoles)
