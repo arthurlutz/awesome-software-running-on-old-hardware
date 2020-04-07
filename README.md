@@ -166,7 +166,7 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 * 🌏🌎🌍 https://www.softwareheritage.org/
 * 🌏🌎🌍 https://www.exploitee.rs/
 * 🇬🇧 https://therestartproject.org/
-* 🇺🇸 https://www.fixitclinic.org
+* 🇺🇸 https://fixitclinic.blogspot.com/
 * 🇺🇸 https://www.ifixit.com/Right-to-Repair
 * 🇫🇷 https://www.halteobsolescence.org/
 * 🇫🇷 https://repaircafe.org/
