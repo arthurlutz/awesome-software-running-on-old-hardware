@@ -1,13 +1,18 @@
-image: ruby
-
-# Cache gems in between builds
-cache:
-  paths:
-    - vendor/ruby
-
-before_script:
-  - gem install awesome_bot
-
 awesome_bot:
+  image: ruby
+  # Cache gems in between builds
+  cache:
+    paths:
+      - vendor/ruby
+  before_script:
+    - gem install awesome_bot
   script:
     - awesome_bot --allow-redirect --white-list kb.netgear.com,support.dynabook.com README.md
+
+awesome-lint:
+  image: node:latest
+  stage: test
+  allow_failure: true
+  script:
+    - npm install
+    - npm test
