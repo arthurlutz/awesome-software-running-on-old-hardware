@@ -1,11 +1,13 @@
-# Awesome Software Running On Old Hardware [![Awesome][awesome-badge]][awesome-link]
+# Awesome Software Running On Old Hardware [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Abandonware on old hardware renders it unsecure, partially unusuable. Let's upgrade or replace it.
 
 Here is a list of projects that attempt to compile or install “recent” software on old hardware, thus extending the life span of theses products.
 
-## Table of Contents
+## Contents
 
+- [Why](#why)
+- [How](#how)
 - [💻 Computers](#-computers)
 - [💾 NAS](#-nas)
 - [🤳📱 Phones / Tablets](#-phones-tablets)
@@ -40,22 +42,22 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 
 - Collaborative document 📖🖊 on [hackmd](https://hackmd.io/5G4JLCw4Sm-jqac1f-Wo5A?both)
 - https://framagit.org/arthurlutzim/awesome-software-running-on-old-hardware
-- [mirror on GitHub](https://github.com/arthurlutz/awesome-software-running-on-old-hardware (mirror))
+- [mirror on GitHub](https://github.com/arthurlutz/awesome-software-running-on-old-hardware)
 
 
 ## 💻 Computers
 
-- [lubuntu](https://lubuntu.net) - "Lubuntu has very low hardware requirements."
-    - [How to Install lubuntu on Old and Very Old Computers?](https://docs.lubuntu.net/lubuntu_installation_on_old_computers)
-- [xubuntu](https://xubuntu.org/) "It works well on older hardware too." [requirements](https://xubuntu.org/requirements/)
-- [Emmabuntu & lemmabuntu](https://emmabuntus.sourceforge.io/mediawiki/index.php/Main_Page) and it's  [requirements](https://emmabuntus.sourceforge.io/mediawiki/index.php/Features) and [How to recondition old Boxes with Emmabuntüs](https://emmabuntus.sourceforge.io/mediawiki/index.php/How_to_recondition_old_Boxes_with_Emmabunt%C3%BCs)
-- [PepperMint](https://peppermintos.com/) "Peppermint OS is a Linux OS based on Lubuntu"
-    - [PepperMint VS Windows XP](https://www.youtube.com/watch?v=kHM764tMSDM)
+- [lubuntu](https://lubuntu.net) - "Lubuntu has very low hardware requirements".
+  - [How to Install lubuntu on Old and Very Old Computers?](https://docs.lubuntu.net/lubuntu_installation_on_old_computers)
+- [xubuntu](https://xubuntu.org/) - "It works well on older hardware too" [requirements](https://xubuntu.org/requirements/).
+- [Emmabuntu & lemmabuntu](https://emmabuntus.sourceforge.io/mediawiki/index.php/Main_Page) - it's  [requirements](https://emmabuntus.sourceforge.io/mediawiki/index.php/Features) and [How to recondition old Boxes with Emmabuntüs](https://emmabuntus.sourceforge.io/mediawiki/index.php/How_to_recondition_old_Boxes_with_Emmabunt%C3%BCs).
+- [PepperMint](https://peppermintos.com/) - Peppermint OS is a Linux OS based on Lubuntu.
+  - [PepperMint VS Windows XP](https://www.youtube.com/watch?v=kHM764tMSDM)
 - Chromebooks
-    - [MrChromebox.tech](https://mrchromebox.tech), [devices](https://mrchromebox.tech/#devices)
-    - [GalliumOS](https://galliumos.org/), [devices](https://wiki.galliumos.org/Hardware_Compatibility)
-- [slitaz](http://www.slitaz.org/) Simple, fast and low resource Linux OS for servers & desktops
-- [PrimTux (fr)](https://primtux.fr/) education oriented distro
+  - [MrChromebox.tech](https://mrchromebox.tech) - [devices](https://mrchromebox.tech/#devices)
+  - [GalliumOS](https://galliumos.org/) - [devices](https://wiki.galliumos.org/Hardware_Compatibility)
+- [slitaz](http://www.slitaz.org/) - Simple, fast and low resource Linux OS for servers & desktops.
+- [PrimTux (fr)](https://primtux.fr/) - Education oriented distro.
 
 
 ## 💾 NAS
@@ -85,14 +87,14 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 ## 🎧 Audio devices
 
 - [iPod with iPodLinux](https://en.wikipedia.org/wiki/IPodLinux)
-- [RockBox](https://www.rockbox.org/), [devices](https://www.rockbox.org/wiki/TargetStatus)
+- [RockBox](https://www.rockbox.org/) - [devices](https://www.rockbox.org/wiki/TargetStatus)
 - [PS-WTX500 subwoofer Reverse Engineering](https://github.com/zarpli/PS-WTX500)
 
 ## 🎮 Game consoles
 
-- [libretro/retroarch](https://www.libretro.com/) and [devices running emulators](https://retroarch.com/?page=platforms) extending game play for existing hardware
-- [WiiBrew](https://www.wiibrew.org/wiki/) on the Nintendo Wii
-- [HomeBrew culture](https://en.wikipedia.org/wiki/Homebrew_(video_games)) on various game consoles
+- [libretro/retroarch](https://www.libretro.com/) - [devices running emulators](https://retroarch.com/?page=platforms) extending game play for existing hardware.
+- [WiiBrew](https://www.wiibrew.org/wiki/) - On the Nintendo Wii.
+- [HomeBrew culture](https://en.wikipedia.org/wiki/Homebrew_(video_games)) - On various game consoles.
 
 ## 📺 TVs
 
@@ -108,37 +110,37 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 ## 📖 e-reader
 
 - [Kobo alternative firmware : OcherBook](https://github.com/ccoffing/OcherBook)
-- [Kindle 4 NT (non-touch) : fread.ink](https://fread.ink/) is a free as in freedom alternate operating system for electronic paper ebook readers
+- [Kindle 4 NT (non-touch) : fread.ink](https://fread.ink/) - A free as in freedom alternate operating system for electronic paper ebook readers.
 
 ## 📷 Cameras
 
-- [MagicLantern](https://www.magiclantern.fm/) for Canon cameras (5D Mark II, 5D Mark III, 6D, 7D, 50D, 60D, 500D/T1i, 550D/T2i, 600D/T3i, 650D/T4i, 700D/T5i, 1100D/T3, EOS M.) and 26 other devices started3
+- [MagicLantern](https://www.magiclantern.fm/) - For Canon cameras (5D Mark II, 5D Mark III, 6D, 7D, 50D, 60D, 500D/T1i, 550D/T2i, 600D/T3i, 650D/T4i, 700D/T5i, 1100D/T3, EOS M.) and 26 other devices started3.
 - [CHDK - Canon Hack Development Kit](https://chdk.fandom.com/wiki/CHDK)
-- [400plus](https://github.com/400plus/400plus) (A firmware hack for the Canon 400D / XTi digital camera)
+- [400plus](https://github.com/400plus/400plus) - A firmware hack for the Canon 400D / XTi digital camera.
 - [Samsung NX300 : Firmware mods](https://op-co.de/blog/posts/modding_the_nx300/)
 - [Leika](https://alexhude.github.io/2019/01/24/hacking-leica-m240.html)
 
 ## ⌚️ Watches
 
-- [AsteroidOS](https://asteroidos.org/), [devices](https://asteroidos.org/install/)
+- [AsteroidOS](https://asteroidos.org/) - [devices](https://asteroidos.org/install/).
 
 ## 🏚 Internet of "Things"
 
 - exploitee.rs
-    - [Nest](https://www.exploitee.rs/index.php/Nest)
+  - [Nest](https://www.exploitee.rs/index.php/Nest)
 - Xiaomi
-    - Mi : [python-miio](https://github.com/rytilahti/python-miio) to interface with devices using Xiaomi's miIO protocol.
-    - Vaccum : [dontvacuum.me](https://dontvacuum.me/) and [dustcloud](https://github.com/dgiese/dustcloud)
+  - Mi : [python-miio](https://github.com/rytilahti/python-miio) to interface with devices using Xiaomi's miIO protocol.
+  - Vaccum : [dontvacuum.me](https://dontvacuum.me/) and [dustcloud](https://github.com/dgiese/dustcloud)
 
 ## 🔧 Software projects that maintain a version for old hardware
 
 
-- [Debian](https://www.debian.org/) and it's [ports](https://www.debian.org/ports/), some continued by smaller communities
-- [NetBSD ports](https://www.netbsd.org/ports/) target a lot of old platforms as well (8 ports "up to date", 49 ports "evolving at its own pace").
-- [Syncthing](https://syncthing.net/), architectures supported : [64-bit (x86-64), 32-bit (x86-32), ARM, ARM64, MIPS, MIPS64, MIPS-LE, MIPS64-LE, PPC64, PPC64-LE, S/390x](https://syncthing.net/downloads/)
-- [NetSurf browser](http://www.netsurf-browser.org/) is a lightweight web browser that runs on RISC-OS, AmigaOS, Atari MiNT, Haiku…
-- [Floodgap](http://www.floodgap.com/) maintains several things including Gopher stuff, [TenFourFox](http://www.floodgap.com/software/tenfourfox/) (a port of Firefox to PowerPC OSX), and [Classilla](http://www.floodgap.com/software/classilla/) for MacOS9.
-- [ELKS](https://github.com/elks-org/elks) (Embeddable Linux Kernel Subset): This is a project to write a Linux-like OS for systems based on the Intel IA16 architecture (16 bits processors: 8088, 8086, 80188, 80186, 80286, Nec V20, V30 and compatibles).
+- [Debian](https://www.debian.org/) - It's [ports](https://www.debian.org/ports/), some continued by smaller communities.
+- [NetBSD ports](https://www.netbsd.org/ports/) - Target a lot of old platforms as well (8 ports "up to date", 49 ports "evolving at its own pace").
+- [Syncthing](https://syncthing.net/) - Architectures supported : [64-bit (x86-64), 32-bit (x86-32), ARM, ARM64, MIPS, MIPS64, MIPS-LE, MIPS64-LE, PPC64, PPC64-LE, S/390x](https://syncthing.net/downloads/).
+- [NetSurf browser](http://www.netsurf-browser.org/) - a lightweight web browser that runs on RISC-OS, AmigaOS, Atari MiNT, Haiku…
+- [Floodgap](http://www.floodgap.com/) - maintains several things including Gopher stuff, [TenFourFox](http://www.floodgap.com/software/tenfourfox/) (a port of Firefox to PowerPC macOS), and [Classilla](http://www.floodgap.com/software/classilla/) for MacOS9.
+- [ELKS](https://github.com/elks-org/elks) - (Embeddable Linux Kernel Subset): This is a project to write a Linux-like OS for systems based on the Intel IA16 architecture (16 bits processors: 8088, 8086, 80188, 80186, 80286, Nec V20, V30 and compatibles).
 
 ## ✨🎉 Proprietary hardware where the code source has been published
 
@@ -147,7 +149,7 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 
 ## 🗄🗃 Hardware databases
 
-- [wikidata](https://www.wikidata.org/) and it's [product or material produced attribute](https://www.wikidata.org/wiki/Property:P1056)
+- [wikidata](https://www.wikidata.org/) - And it's [product or material produced attribute](https://www.wikidata.org/wiki/Property:P1056).
 - OpenWRT ["Hardware database CSV dump"](https://openwrt.org/supported_devices)
 - [openrepair.org open data](https://openrepair.org/open-data/)
 
@@ -192,18 +194,11 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 See [AUTHORS](AUTHORS.md)
 
-This project was initially created with [Cookiecutter][cookiecutter] and the custom [cookiecutter-awesome][cookiecutter-awesome] :cookie:
+This project was initially created with [Cookiecutter](https://github.com/cookiecutter/cookiecutter) and the custom [cookiecutter-awesome](https://github.com/moodule/cookiecutter-git) :cookie:
 
 ## License
 
-[![CC0][CC0-badge]][CC0-link]
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Arthur Lutz and constributors has waived all copyright
 and related or neighboring rights to this work. See [LICENSE](LICENSE).
-
-[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[awesome-link]: https://github.com/sindresorhus/awesome
-[CC0-badge]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
-[CC0-link]: https://creativecommons.org/publicdomain/zero/1.0/
-[cookiecutter]: https://github.com/cookiecutter/cookiecutter
-[cookiecutter-awesome]: https://github.com/moodule/cookiecutter-git
