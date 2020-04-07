@@ -13,3 +13,5 @@ jobs:
       language: node_js
       node_js:
         - 'node'
+  allow_failures:
+    - name: awesome-lint

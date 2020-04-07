@@ -12,6 +12,7 @@ awesome_bot:
 awesome-lint:
   image: node:latest
   stage: test
+  allow_failure: true
   script:
     - npm install
     - npm test
