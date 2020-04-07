@@ -86,7 +86,7 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 
 * [iPod with iPodLinux](https://en.wikipedia.org/wiki/IPodLinux)
 * [RockBox](https://www.rockbox.org/), [devices](https://www.rockbox.org/wiki/TargetStatus)
-
+* [PS-WTX500 subwoofer Reverse Engineering](https://github.com/zarpli/PS-WTX500)
 
 ## 🎮 Game consoles
 
