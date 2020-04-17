@@ -77,6 +77,7 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 - Postmarketos [project](https://postmarketos.org/), [devices](https://wiki.postmarketos.org/wiki/Devices)
 - /e/ [project](https://e.foundation), [devices](https://doc.e.foundation/devices/)
 - [Android on Apple's iPhone - project sandcastle](https://projectsandcastle.org/)
+- [JanOS](http://janos.io/) - Turn your phone into an IoT board, [devices](http://janos.io/device-list.html).
 
 ## ⬆️⬇️ Routers
 
