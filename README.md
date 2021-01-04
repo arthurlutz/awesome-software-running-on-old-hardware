@@ -96,6 +96,10 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 - [libretro/retroarch](https://www.libretro.com/) - [devices running emulators](https://retroarch.com/?page=platforms) extending game play for existing hardware.
 - [WiiBrew](https://www.wiibrew.org/wiki/) - On the Nintendo Wii.
 - [HomeBrew culture](https://en.wikipedia.org/wiki/Homebrew_(video_games)) - On various game consoles.
+- [Nintendo 64 running Linux](https://hackaday.com/2021/01/01/a-fresh-linux-for-the-most-unexpected-platform-the-nintendo-64/)
+- [Sony's Playstation1 (PS1) running Linux (PSXLinux)](https://www.linux-mips.org/wiki/PS1)
+- [Sony's Playstation2 (PS2) running Linux](https://www.linux-mips.org/wiki/PS2)
+- [Sony's PSP running Linux](https://www.linux-mips.org/wiki/PSP)
 
 ## 📺 TVs
 
