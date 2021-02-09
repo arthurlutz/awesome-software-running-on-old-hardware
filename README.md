@@ -146,6 +146,7 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 - [NetBSD ports](https://www.netbsd.org/ports/) - Target a lot of old platforms as well (8 ports "up to date", 49 ports "evolving at its own pace").
 - [Syncthing](https://syncthing.net/) - Architectures supported : [64-bit (x86-64), 32-bit (x86-32), ARM, ARM64, MIPS, MIPS64, MIPS-LE, MIPS64-LE, PPC64, PPC64-LE, S/390x](https://syncthing.net/downloads/).
 - [NetSurf browser](http://www.netsurf-browser.org/) - a lightweight web browser that runs on RISC-OS, AmigaOS, Atari MiNT, Haiku…
+- [Emilia Pinball](https://purl.org/rzr/pinball) - A pincab device built on GNU/Linux [on 2004 PC](https://rzr.github.io/rzr-presentations/docs/pinball/#/9)
 - [Floodgap](http://www.floodgap.com/) - maintains several things including Gopher stuff, [TenFourFox](http://www.floodgap.com/software/tenfourfox/) (a port of Firefox to PowerPC macOS), and [Classilla](http://www.floodgap.com/software/classilla/) for MacOS9.
 - [ELKS](https://github.com/elks-org/elks) - (Embeddable Linux Kernel Subset): This is a project to write a Linux-like OS for systems based on the Intel IA16 architecture (16 bits processors: 8088, 8086, 80188, 80186, 80286, Nec V20, V30 and compatibles).
 
