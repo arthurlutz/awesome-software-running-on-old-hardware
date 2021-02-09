@@ -92,6 +92,7 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 - [PS-WTX500 subwoofer Reverse Engineering](https://github.com/zarpli/PS-WTX500)
 - [Arduino CD Player on IDE CDROM players](https://hackaday.io/project/176545-arduino-cd-player)
 - [Arduino CD Player on ATAPI devices - ATAPIDUINO](http://singlevalve.web.fc2.com/Atapiduino/atapiduino.htm)
+- [AM/FM radio with added Bluetooth](http://thermal.blue/2020/12/23/adding-bluetooth-apt-x-low-latency-to-am-fm-radio.html)
 
 ## 🎮 Game consoles
 
