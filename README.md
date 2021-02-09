@@ -58,6 +58,8 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
   - [GalliumOS](https://galliumos.org/) - [devices](https://wiki.galliumos.org/Hardware_Compatibility)
 - [slitaz](http://www.slitaz.org/) - Simple, fast and low resource Linux OS for servers & desktops.
 - [PrimTux (fr)](https://primtux.fr/) - Education oriented distro.
+- [FreeDOS](https://www.freedos.org/).
+  - [FUDOZA](http://superkeen.com/peacecorpsweblog/learning-software/) - a FreeDOS-based distribution that can boot from a floppy disk and converts older computers into educational tools for children.
 
 
 ## 💾 NAS
