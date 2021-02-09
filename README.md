@@ -58,6 +58,8 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
   - [GalliumOS](https://galliumos.org/) - [devices](https://wiki.galliumos.org/Hardware_Compatibility)
 - [slitaz](http://www.slitaz.org/) - Simple, fast and low resource Linux OS for servers & desktops.
 - [PrimTux (fr)](https://primtux.fr/) - Education oriented distro.
+- [FreeDOS](https://www.freedos.org/).
+  - [FUDOZA](http://superkeen.com/peacecorpsweblog/learning-software/) - a FreeDOS-based distribution that can boot from a floppy disk and converts older computers into educational tools for children.
 
 
 ## 💾 NAS
@@ -77,6 +79,7 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 - Postmarketos [project](https://postmarketos.org/), [devices](https://wiki.postmarketos.org/wiki/Devices)
 - /e/ [project](https://e.foundation), [devices](https://doc.e.foundation/devices/)
 - [Android on Apple's iPhone - project sandcastle](https://projectsandcastle.org/)
+- [JanOS](http://janos.io/) - Turn your phone into an IoT board, [devices](http://janos.io/device-list.html).
 
 ## ⬆️⬇️ Routers
 
@@ -89,12 +92,19 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 - [iPod with iPodLinux](https://en.wikipedia.org/wiki/IPodLinux)
 - [RockBox](https://www.rockbox.org/) - [devices](https://www.rockbox.org/wiki/TargetStatus)
 - [PS-WTX500 subwoofer Reverse Engineering](https://github.com/zarpli/PS-WTX500)
+- [Arduino CD Player on IDE CDROM players](https://hackaday.io/project/176545-arduino-cd-player)
+- [Arduino CD Player on ATAPI devices - ATAPIDUINO](http://singlevalve.web.fc2.com/Atapiduino/atapiduino.htm)
+- [AM/FM radio with added Bluetooth](http://thermal.blue/2020/12/23/adding-bluetooth-apt-x-low-latency-to-am-fm-radio.html)
 
 ## 🎮 Game consoles
 
 - [libretro/retroarch](https://www.libretro.com/) - [devices running emulators](https://retroarch.com/?page=platforms) extending game play for existing hardware.
 - [WiiBrew](https://www.wiibrew.org/wiki/) - On the Nintendo Wii.
 - [HomeBrew culture](https://en.wikipedia.org/wiki/Homebrew_(video_games)) - On various game consoles.
+- [Nintendo 64 running Linux](https://hackaday.com/2021/01/01/a-fresh-linux-for-the-most-unexpected-platform-the-nintendo-64/)
+- [Sony's Playstation1 (PS1) running Linux (PSXLinux)](https://www.linux-mips.org/wiki/PS1)
+- [Sony's Playstation2 (PS2) running Linux](https://www.linux-mips.org/wiki/PS2)
+- [Sony's PSP running Linux](https://www.linux-mips.org/wiki/PSP)
 
 ## 📺 TVs
 
@@ -139,6 +149,7 @@ Hashtags : #firmware #jailbreaking #rooting #alternativefirmwares #upgradeableha
 - [NetBSD ports](https://www.netbsd.org/ports/) - Target a lot of old platforms as well (8 ports "up to date", 49 ports "evolving at its own pace").
 - [Syncthing](https://syncthing.net/) - Architectures supported : [64-bit (x86-64), 32-bit (x86-32), ARM, ARM64, MIPS, MIPS64, MIPS-LE, MIPS64-LE, PPC64, PPC64-LE, S/390x](https://syncthing.net/downloads/).
 - [NetSurf browser](http://www.netsurf-browser.org/) - a lightweight web browser that runs on RISC-OS, AmigaOS, Atari MiNT, Haiku…
+- [Emilia Pinball](https://purl.org/rzr/pinball) - A pincab device built on GNU/Linux [on 2004 PC](https://rzr.github.io/rzr-presentations/docs/pinball/#/9)
 - [Floodgap](http://www.floodgap.com/) - maintains several things including Gopher stuff, [TenFourFox](http://www.floodgap.com/software/tenfourfox/) (a port of Firefox to PowerPC macOS), and [Classilla](http://www.floodgap.com/software/classilla/) for MacOS9.
 - [ELKS](https://github.com/elks-org/elks) - (Embeddable Linux Kernel Subset): This is a project to write a Linux-like OS for systems based on the Intel IA16 architecture (16 bits processors: 8088, 8086, 80188, 80186, 80286, Nec V20, V30 and compatibles).
 
